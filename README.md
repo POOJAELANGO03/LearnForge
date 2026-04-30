@@ -187,4 +187,6 @@ npm run build
 
 ## 📧 Support
 
+## Update: Learning platform improvements 🚀
+
 For issues or questions, contact the development team.

@@ -187,10 +187,4 @@ npm run build
 
 ## 📧 Support
 
-## 🎯 Key Highlights
-- 🔐 Secure Firebase Authentication
-- ⚡ Real-time data sync with Firestore
-- 📱 Fully responsive (mobile-first design)
-- 🚀 Clean modular React architecture
-
 For issues or questions, contact the development team.
